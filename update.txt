@@ -1,0 +1,7 @@
+*DONE* 6 roznych zdjec, ktore maja zaslonic cala flage, a nastepnie po wpisaniu hasla, jezeli jest nieprawidlowe, losowo usunac jedno z nich az do 1 zdjecia
+*DONE* ikonka
+*DONE* lista krajow ktore gracz poda
+*DONE* dodanie "brawo - japonia to poprawna odpowiedz" czy cos takiego
+*DONE KURWA* wysuwana lista panstw
+*DONE* inne gui
+przy calej fladze podawac kontynent
